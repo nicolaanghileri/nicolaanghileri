@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Ebarassing stats ;(
+# Embarrassing stats ;(
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolaanghileri&theme=monokai&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
