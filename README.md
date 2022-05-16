@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ControlloAmbientale - [Take a look!](https://github.com/SpadeaLorenzo/ControlloAmbientale)
-- 🤔 I’m looking for help with everything
 - 📫 Reach out to me: nicola@anghileri.ch
 
 
