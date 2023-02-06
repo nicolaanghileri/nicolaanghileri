@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Macropad - [Take a look!](https://github.com/nicolaanghileri/macropad)
+- 🔭 My current Full Stack application Macropad - [Take a look!](https://github.com/nicolaanghileri/macropad)
 - 📫 Reach out to me: nicola@anghileri.ch
 
 
