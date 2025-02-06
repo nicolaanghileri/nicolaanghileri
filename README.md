@@ -4,5 +4,5 @@
 - 📫 Reach out to me: nicola@anghileri.ch
 
 
-# Embarrassing stats ;(
+# Embarrassing stats 
 ![Anghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaanghileri&theme=material-palenight&show_icons=true)
